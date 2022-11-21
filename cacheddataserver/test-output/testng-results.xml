@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-13T09:38:01 IST" name="Default suite" finished-at="2022-11-13T09:38:02 IST" duration-ms="605">
+    <groups>
+    </groups>
+    <test started-at="2022-11-13T09:38:01 IST" name="Default test" finished-at="2022-11-13T09:38:02 IST" duration-ms="605">
+      <class name="app.learn.cacheddataserver.TestCachedApp">
+        <test-method signature="testCachedApp()[pri:0, instance:app.learn.cacheddataserver.TestCachedApp@6fe7aac8]" started-at="2022-11-13T09:38:02 IST" name="testCachedApp" finished-at="2022-11-13T09:38:02 IST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCachedApp -->
+      </class> <!-- app.learn.cacheddataserver.TestCachedApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
